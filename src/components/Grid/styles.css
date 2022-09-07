@@ -1,0 +1,25 @@
+.grid-table{
+    width: 98%;
+    background-color: #ffffff;
+    padding: 20px;
+    box-shadow: 0 0 5px #cccccc;
+    border-radius: 5px;
+    max-width: 1120px;
+    margin: 20px auto;
+}
+
+.grid-table th{
+    /*text-align: start;*/
+    border-bottom: inset;
+    padding-bottom: 5px;
+    text-align: center;
+    width: auto;
+}
+
+.th-w-40 th{
+    width: 40% !important;
+}
+
+.th-w-10 th{
+    width: 10% !important;
+}

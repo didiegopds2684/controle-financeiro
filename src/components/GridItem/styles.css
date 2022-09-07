@@ -1,0 +1,14 @@
+.grid-table td{
+    padding: 1rem;
+    text-align: center;
+    word-break: break-all;
+}
+
+.grid-table td svg{
+    position: relative;
+    left: 50%;
+}
+.grid-svg svg{
+    width: 18px;
+    height: 18px;
+}
